@@ -45,3 +45,25 @@ print(fruitnames[1])
  Mango = 2
  
  */
+
+
+// PROBLEM SETS
+
+// Problem Set #1
+
+var CashCars =
+    ["Koenigsegg CCXR Trevita", "Lamborghini Veneno","W Motors Lykan Hypersport", "Mansory Vivere Bugatti Veyron ","Ferrari F60 America","Koenigsegg One","Aston Martin One-77", "Pagani Huayra" ]
+
+for car in CashCars
+{
+    print("A " + car + " is an expensive car.")
+}
+
+// Problem Set #2
+
+let Cash = [10,15,20,25,30,35,40,45]
+
+for number in Cash
+{
+    print(number + 100)
+}
